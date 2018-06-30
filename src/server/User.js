@@ -7,5 +7,4 @@ class User
     return result;
   }
 }
-
 export default User;
